@@ -135,7 +135,7 @@ Most of my talks are technical talks in the high energy physics community (for e
 > - Earth, Ocean, Geo and Atmospheric Science
 
 - [ ] General
-- [x] Data Driven Discoveries (machine learning & data science)
+- [x] **Data Driven Discoveries (machine learning & data science)**
 - [ ] Open Source Communities
 - [ ] Science Communication through Visualization
 - [ ] Neuroscience and Cognitive Science
