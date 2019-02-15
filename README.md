@@ -108,9 +108,12 @@ Most of my talks are technical talks in the high energy physics community (for e
 - Physics
 - Statistics
 - Fitting
+- SciPy
 - NumPy
 - TensorFlow
 - PyTorch
+- MXNet
+- Auto-Differentiation
 
 ## Other Information and Files
 
