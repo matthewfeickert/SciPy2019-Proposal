@@ -43,7 +43,12 @@ pyhf: a pure Python statistical fitting library from the high energy physics com
 
 #### Description
 
-In experimental high energy physics statistical fitting tools have been implemented almost entirely in C++. In particular, the "HistFactory" p.d.f. template [CERN-OPEN-2012-016], used extensively in the 2012 discovery of the Higgs boson, has only existed in implementations in the C++ based ROOT analysis framework. pyhf [DOI: 10.5281/zenodo.1464139] is a pure-Python implementation of that statistical model for multi-bin histogram-based analysis with interval estimation based on the asymptotic formulas of "Asymptotic formulae for likelihood-based tests of new physics" [arxiv:1007.1727]. pyhf supports modern computational graph libraries such as TensorFlow and PyTorch as computational backends in order to make use of features such as auto-differentiation and GPU acceleration.
+In experimental high energy physics, statistical fitting tools have been implemented almost entirely in C++.
+One common example used by experimentalists at CERN uses the HistFactory p.d.f. template [CERN-OPEN-2012-016].
+Prominently used in the 2012 discovery of the Higgs boson by the ATLAS and CMS collaborations, the p.d.f. template has only existed within the C++ based ROOT framework developed and maintained by CERN.
+pyhf [DOI: 10.5281/zenodo.1464139] is a pure-Python implementation of that statistical model for multi-bin histogram-based analysis with interval estimation based on "Asymptotic formulae for likelihood-based tests of new physics" [arxiv:1007.1727].
+pyhf supports modern computational graph libraries such as TensorFlow and PyTorch as computational backends in order to make use of features such as auto-differentiation and GPU acceleration.
+Additionally, the statistical models are defined in an expressive JSON schema, readily enabling preservation and distribution through services such as the Durham High-Energy Physics Database (https://www.hepdata.net/).
 
 #### Audience
 
