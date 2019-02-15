@@ -22,7 +22,7 @@
 
 ## Author 3
 
-- First Name: Giordon Stark
+- First Name: Giordon
 - Last Name: Stark
 - Email: gstark@cern.ch
 - Country: United States
