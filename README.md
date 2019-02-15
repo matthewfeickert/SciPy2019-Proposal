@@ -49,7 +49,7 @@ In experimental high energy physics statistical fitting tools have been implemen
 
 - Who is the intended audience for your talk?
 
-This talk would be of particular interest to scientists, engineers, and statisticians who are looking to use machine learning frameworks for statistical analysis in Python.
+This talk would be of particular interest to scientists (experimentalists and theorists alike), engineers, and statisticians (though Frequentist methods are used Bayesians will still be interested) who are looking to use machine learning frameworks for statistical analysis in Python.
 
 - What, specifically, will attendees learn from your talk?
 
