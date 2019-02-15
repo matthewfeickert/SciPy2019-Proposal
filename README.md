@@ -92,7 +92,7 @@ Neuroscience and Cognitive Science
 Image Processing
 Earth, Ocean, Geo and Atmospheric Science
 
-- [ ]General
+- [ ] General
 - [x] Data Driven Discoveries (machine learning & data science)
 - [ ] Open Source Communities
 - [ ] Science Communication through Visualization
@@ -103,9 +103,8 @@ Earth, Ocean, Geo and Atmospheric Science
 
 ### Please provide a short summary of your topic..*
 > The summary should be less than 100 words and should be suitable to be used as a description in the online program.
-> wc -w: 92
 
-In experimental high energy physics statistical fitting tools have been implemented almost entirely in C++. pyhf [DOI: 10.5281/zenodo.1464139] is a pure-Python implementation of the statistical model for multi-bin histogram-based analysis used to discover the Higgs boson and its interval estimation is based on the asymptotic formulas of "Asymptotic formulae for likelihood-based tests of new physics" [arxiv:1007.1727]. pyhf supports modern computational graph libraries such as TensorFlow and PyTorch in order to make use of features such as auto-differentiation and GPU acceleration. pyhf demonstrates a flexible and robust model for large binned statistical fits.
+In experimental high energy physics statistical fitting tools have been implemented almost entirely in C++. pyhf is a pure-Python implementation of the "HistFactory" statistical model, used to discover the Higgs boson, for multi-bin histogram-based analysis with interval estimation based on "Asymptotic formulae for likelihood-based tests of new physics" [arxiv:1007.1727]. pyhf supports modern computational graph libraries such as TensorFlow and PyTorch as computational backends to make use of features such as auto-differentiation and GPU acceleration. pyhf demonstrates a flexible and robust model for large binned statistical fits to meet the statistical challenges of the high energy physics community.
 
 ### Paper. (Optional)
 You are welcome to upload additional information or a paper to support your proposal.
