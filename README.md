@@ -4,7 +4,7 @@
 
 - First Name: Matthew
 - Last Name: Feickert
-- Email: mfeickert@gmail.com
+- Email: matthew.feickert at-no-spam cern.ch
 - Country: United States
 - Organization: Southern Methodist University
 - Web page: http://www.matthewfeickert.com/
@@ -14,7 +14,7 @@
 
 - First Name: Lukas
 - Last Name: Heinrich
-- Email: lukas.heinrich@cern.ch
+- Email: lukas.heinrich at-no-spam cern.ch
 - Country: Germany
 - Organization: CERN
 - Web page: http://www.lukasheinrich.com/
@@ -24,7 +24,7 @@
 
 - First Name: Giordon
 - Last Name: Stark
-- Email: gstark@cern.ch
+- Email: gstark at-no-spam cern.ch
 - Country: United States
 - Organization: University of California Santa Cruz Santa Cruz Institute for Particle Physics (UCSC SCIPP)
 - Web page: https://giordonstark.com/
